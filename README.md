@@ -8,7 +8,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend for building web applications.
 - 🌱 Exploring new technologies.
-- 🤔 Ask me about Flutter & Angular
+- 🤔 Ask me about .Net & Angular
 - ⚡ In my free time I solve other problems on stackOverflow.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Ronak-Mangroliya?style=flat&logo=Linkedin&logoColor=aawhite)](https://www.linkedin.com/in/ronak-mangroliya-40bba51b0/)
 

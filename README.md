@@ -35,7 +35,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaymoradiya&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ronakpatel04&theme=dark&date_format=j%20M%5B%20Y%5D&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakpatel04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -10,7 +10,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 Exploring new technologies.
 - 🤔 Ask me about .Net & Angular
 - ⚡ In my free time I solve other problems on stackOverflow.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://www.linkedin.com/in/ronakmangroliya/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Jay-Moradiya?style=flat&logo=Linkedin&logoColor=aawhite)](https://www.linkedin.com/in/ronakmangroliya/)
 
 ---
 
